@@ -1,0 +1,7 @@
+boto3
+awscli
+langchain
+streamlit
+faiss-cpu
+pypdf
+langchain-community==0.2.6
